@@ -31,14 +31,14 @@ Add screenshot here later.
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/drone-landing-page/
+https://payalpatil6.github.io/drone-landing-page/
 
 ## 📥 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/drone-landing-page.git
+git clone https://github.com/payalpatil6/drone-landing-page.git
 ```
 
 Open `index.html` in browser.
